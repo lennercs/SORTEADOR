@@ -1,5 +1,7 @@
 # 🎲 DevSorteio
 
+🔗 **Acesse o projeto online:** [Clique aqui para testar o Sorteador](https://lennercs.github.io/SORTEADOR/)
+
 Um sorteador de números aleatórios moderno, responsivo e elegante, desenvolvido para consolidar conceitos fundamentais de lógica de programação em JavaScript, estilização avançada com CSS e boas práticas de responsividade.
 
 ## 🚀 Tecnologias Utilizadas
